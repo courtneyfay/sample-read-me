@@ -1,4 +1,4 @@
-# Kit-cat-koh planning
+# Kit-CAT-Koh planning
 
 ## Vision/Goal
 
